@@ -19,7 +19,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 Asistan", url="https://t.me/KarabakhMusicasistant"
+                        "🔊 Asistan", url="https://t.me/KarabakhMusicasistan"
                     ),
                     InlineKeyboardButton(
                         "💬 Sohbet", url="https://t.me/karabakhteamm"
@@ -82,7 +82,7 @@ async def cbbilgi(_, query: CallbackQuery):
         ],
         [
           InlineKeyboardButton(
-            "⚙ Geliştirici", url="https://t.me/thagiyevvvvv")
+            "⚙ Geliştirici", url="https://t.me/thagiyevvvv")
         ]
       ]
      ))
